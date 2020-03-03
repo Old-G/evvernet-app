@@ -26,7 +26,8 @@ const LogoText = styled.Text`
   );
 `;
 
-const Avatar = styled.Image`
+
+const Avatar = styled.Image` 
   width: 44px;
   height: 44px;
   background: black;
